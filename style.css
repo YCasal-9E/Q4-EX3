@@ -1,0 +1,32 @@
+body{
+  background-image: url(https://i.pinimg.com/736x/33/56/0c/33560ce127c61d95e0d9b4afaca08818.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Roboto Flex !important;
+}
+.card {
+  border-radius: 1rem;
+  background-color: #ffffffd9;
+}
+
+.btn-primary {
+  background-color: #6f42c1;
+  border-color: #6f42c1;
+}
+
+.btn-primary:hover {
+  background-color: #5a32a3;
+  border-color: #5a32a3;
+}
+
+.btn-outline-secondary {
+  border-color: #6c757d;
+  color: #6c757d;
+}
+
+.btn-outline-secondary:hover {
+  background-color: #6c757d;
+  color: white;
+}
